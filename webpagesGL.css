@@ -8,13 +8,14 @@
  
 p {
     font-family: Times;
-	font-size: 16px
-	color: #FFFFFF
-
+	font-size: 16px;
+	color: #FFFFFF;
+}
 .table-border {
     border: 1px solid #FFFFFF;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+	max-height: 300px;
 }
